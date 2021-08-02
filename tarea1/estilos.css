@@ -1,0 +1,50 @@
+h1 {
+    color: white;
+    background-color: red;
+    font-size: 35px;
+} 
+/*Le da color de fuente, del fondo de la fuente y ajusta el tamaño del TITULO*/
+
+h2 { 
+    color: white;
+    background-color:red;
+    font-size: 20px;
+}
+ /*Le da color de fuente, del fondo de la fuente y ajusta el tamaño del SUBTITULO*/
+.parrafo {
+    color: white;
+    background-color: green;
+    font-size: 20px;
+    font-family: "Homer Simpson UI";
+}  
+ /*Le da color de fuente, del fondo de la fuente y ajusta el tamaño del PARRAFO*/
+
+.parrafoBerlin {
+    background-color: yellow;
+    font-size: 20px; 
+} 
+/*Le da color de fuente, del fondo de la fuente y ajusta el tamaño del parrafo de la noticia2*/
+#distinto{
+    color: black;
+    background-color: white;
+}  
+/*Cambia el estilo del titulo de la noticia2*/
+    
+.linkeado{
+    text-decoration:none;
+    color: black;
+}
+ /*Modifica el color del enlace a color negro y le saca el subrrayado*/
+
+.estilo{
+    text-align: center;
+} 
+/*Quise centrar la imagen pero no me salio*/
+
+.linkeadodos{
+    text-decoration: none;
+    color:rebeccapurple;
+
+
+}
+ /*Modifica el color del enlace a color purpura y le saca el subrrayado*/
