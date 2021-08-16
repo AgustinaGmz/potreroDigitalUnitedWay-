@@ -1,0 +1,32 @@
+.contenedor{
+    display: flex;
+   height: 400px;
+   flex-wrap: wrap;
+   align-items: center  
+}
+
+*{
+    background-color: azure;
+}
+.p1{
+    flex-wrap: column wrap;
+    font-family: cursive;
+    font-size: 18px
+}
+
+.p2{
+    font-size: 19px;
+}
+
+
+img {
+    float: right;
+    margin-left: 15px;
+    justify-content: start;
+
+}
+
+h1{
+    color:black
+    
+}
